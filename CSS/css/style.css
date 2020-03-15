@@ -1,0 +1,50 @@
+/* My first css */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f6b26b;
+}
+img {
+    border: 5px solid #674ea7;
+}
+h1 {
+    border: 3px solid #0b5394;
+    background-color: darkblue;
+    color: whitesmoke;
+}
+h2, h3 {
+    color: darkblue;
+}
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+cite {
+    font-size: 1rem;
+}
+ul a:link, a:visited {
+    background-color: darkblue;
+    color: yellow;
+    font-size: 1.2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+ul a:hover, a:active {
+    background-color: red;
+}
+a.udemy {
+    color: green;
+}
+.bigbold {
+    font-weight: bold;
+    font-style: 1.3rem;
+}
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.1rem;
+}
+.background {
+    background-color: darkcyan;
+}
